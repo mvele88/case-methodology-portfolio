@@ -1,4 +1,5 @@
 Clinician: Samuel Oshodiglover
+
 Annonimized Clinical Case Methodology Portfolio
 Case Study #7: Trapped Vulnerability & Isolation Defense
 Client Demographic: Young Adult (Age 20)
